@@ -1,0 +1,47 @@
+.done {
+  padding: 10px;
+  color: rgb(80, 236, 8);
+  font-weight: 400;
+  border: 1px solid rgb(7, 224, 36);
+  width: 200px;
+  margin-left: 20px;
+}
+.notdone {
+  padding: 10px;
+  color: red;
+  font-weight: 400;
+  border: 1px solid rgb(228, 12, 12);
+  width: 200px;
+}
+.form {
+  margin: 20px;
+  padding: 20px;
+  background: rgb(161, 216, 216);
+  width: 250px;
+  border-radius: 5px;
+}
+.input {
+  margin-right: 10px;
+}
+.form > button {
+  margin: 20px;
+  padding: 5px;
+  background: rgb(4, 146, 146);
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
+
+.tasks {
+  background: rgb(255, 255, 255);
+  margin: 10px;
+  font-size: medium;
+  font-weight: bold;
+}
+#container {
+  margin-left: 20px;
+  width: 200px;
+  padding: 20px;
+  width: 250px;
+  border-radius: 5px;
+}
